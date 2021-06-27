@@ -2,8 +2,9 @@
   align-items: center;
 }
 /*General*/
-a{
-  text-decoration: none;
+.link{
+  color: white;
+  padding: 0 1rem;
 }
 button{
   padding:0rem 0.5rem;

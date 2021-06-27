@@ -10,8 +10,8 @@ function Navbar() {
       </a>
      {/* <input type='text' placeholder='search' length='20px'/> */}
       <div className='navbar-end'>
-          <Link to='/saveforlater'> Save for later</Link>
-          <Link to='/cart'> Cart</Link>
+          <Link className='link' to='/saveforlater'> Save for later </Link>
+          <Link className='link' to='/cart'> Cart </Link>
       </div>
     </div>
   );
