@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import '../App.css';
 import firebase from 'firebase';
 import {firestore} from './config.js';
