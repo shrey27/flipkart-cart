@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "brand":"Adidas",
+        "name":"Clothes-1",
+        "image":"https://cdn.shopify.com/s/files/1/1246/5437/products/White_2e60a946-8ca4-461b-b878-5b4131521043.jpg?v=1618389688",
+        "size":"S",
+        "for":"Kids",
+        "price":300
+        
+    },
+    {
+        "id":2,
+        "brand":"Nike",
+        "name":"Clothes-2",
+        "image":"https://rukminim1.flixcart.com/image/332/398/klscivk0/kids-t-shirt/4/x/t/6-7-years-ci9606-453-nike-original-imagyu2epraxykrg.jpeg?q=50",
+        "size":"S",
+        "for":"Kids",
+        "price":400
+        
+    },
+    {
+        "id":3,
+        "brand":"UCB",
+        "name":"Clothes-3",
+        "image":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBURFRgVEhIYGBgaGBgYGRkYGBgYGBgYGBgZGhgYGBocIS4lHB4rIRgZJjgmKy8xNTU1GiQ7QDs0Py40NTEBDAwMEA8QHxISHjEhJCs0NDQ0NDQ0MTQ0NDQ0MTQxNDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIAQMAwgMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUGBwj/xABEEAACAQIDAwgGCQMCBQUAAAABAgADEQQSIQUxQQYiUWFxgZGhBxMycrHBFCNSYpKissLRQoLwM0MkRHTh8RUWJWOT/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAECBAMF/8QAIhEBAAICAgICAwEAAAAAAAAAAAECETEDIRIyE0EiUXFh/9oADAMBAAIRAxEAPwD060W0daFpndiWi2iwgFoQhAIQhAIkWJAJ5n6XcQQcOisQbVGI0tY5Bc+BA756ZPJvS+v/ABFE660iPznSTXZLz4IzXO86XtGfRmOtiZ2vIvA0qistRb63ndYbZlFNFpqL79BrFuXxnC9eLyjOXiKpUAOUG3Hr7u+LRzVAVZb8QQuvXunumG2BhwSRTGvDeNeqT4jYOHKZFpog+6oHwlfm/wAT8Pe3mHIBVfFJTe6gqyodLkhSSNdxIB17uM9rRQBPJTsf6NtbCojc1nDr1BQSw8j4z1yTM57UmMTgRIQgBiWiwgNIjCJJEIgRWhH2hAsQhCECF4l4QFhEhAWEIQCEIQEnlvpjo2fDPwIqIe4oy/FvCepmeccpaIrO9CsLu7v6sWuQNSjg8ABa/VGfGV608s4VeS+zkw9Ba7t7Sht2tju3byeiadLlMEYBsLWync2UWt0kXuJJs+iz4akENj6tN/uiUqvJo1LGpUe4DC4ci5O5iu644aW7ZxmYmZy71rOIw7HDYpHUMp369B75Vx21srBKVB6jcTcKo7SZQ5M4QoHV9dLKT8ZFi+SqVKmbM6kXIKu6k5gOg8LXHf0yImPsmEa4I18fhcQVKerWtnRt6sq5QL7iLuDfjO1Mw/oxUIhcs3shjbMdBmJI3EgHUTdnSs5hy5K4nJIkWEu5EhCEJJCEICQhCBNCJFhAiRbRIBCLCAQhCAQhCATnuUuy0fLWy89NzD2lOlmB7rWNxOhhImMwtW01nMOC2Ji81IDijMh7ibeVpfxOKyITx3Cc7jqpw+JqKNxqFrcCGuT5k+EubVxpAXKBqAbkE2vu0AJ6ZytXtorZr7O2tTVynONlzNZWI7iBqeoazoKdQOoPSLi+hsd2nCec4GmoJJXEFmI5yU2sRe+W9tBOs2fjmXmPmsFJu6kMttdTuPHUHoiYTaJ3hrUAGq9aJf8AGdP0GX5kcnHNRHqn+tyF4cxOaPzZ5sTpWMQzWnMmwiwllSGJFiGAkIpiQkkIQgSwhCECEIQFhEiwCEIQCEIQCEIyuSqMRvANu2SPPOVtAioXUXZHY26VzEkfx1zNwe2KdQhDzQNCTw6BNbHKzorOxLFQWPEsQCT4zmMbszNzgLHddfnprOMYnqWnFo7h02GwodwaeLqKt/ZUoAfFbiXtoYpSRh6bZmdSAd5XgzN1AG/lOQ2bsvEu2lQKo45Sf+07PYWxFoXcks7b2bUkX0HUInBm0uo2fRWnTREGiooHcOPSZYkWEOZARfS6nqI+XGSzpGmadiJFhJDTEMcY0wCJFiQkQhCBJCEIQIRIsAixIQFhCSpSvvkxGSZwjEUoejullVA3RbS3ir5MrFI7aKco4kb7dA6+uStqNZeKyNUUkrx39x/z4R4nk4ra+z2o62ujE2P2GOuU9R4eHbnJhBv39M9Eq4ZSpVwCpFiDutOao7OQlhSqq6gn2WBK9Rtvt0icOSkx3DTx8kTGJVcEEQWAteaVOpfslf6KVNmEfi8JfIr1ESkSBULNlYra4QcFzbrkjS/G051rMulrRHctzY4vTz8HJYe7YBSO0KD3yepT10lhALC1rW0tutwtGma4jEYYpnM5VCLRJaKyJ6XRKzVMShMQxzAjfGyEkgYQhJIQhAfFhCECEIQCLEiM4XVjaIjMkzhKunbJEqayuHvuMkQ6y8dKSnzRbyMGOEsHSCthVc3YG40BDMp8QZPCBVfBIwsy5veJb9RMyP8A22KbZ6LlDobdBvpa3DqnQQlZrEkWmHOrg6tasochVSxqAf1HQqFP2W3nosRxE28bgqdYBaiK4BvZgDrG4FbqHv7RdvFtPIDwlq8itYiFrWmZ/ilhtmU6X+krIOhXcL+C+Xyl6JCWwpkQixDJSRlvIKlK2o3SwItriRMZIlnmBjmWxIjZzXJCLCEnwiRYQIQhAJQ2lU3LfW17cbHcfI+Evzyj0pYp6eMpvTdkdaK85SVOrubXHDql+P2U5IzXDuaWIKHmn+JqYfHA2vob26jfonkOyOXbpZcUmcfbSyv3r7Ld1u+dvg9p0sVTZqFRWsLmx5y9BZTqNekTRatbM8Tav8djWrqjam2/w0/mMXaCncDOKxW3URs9aoqXVEuzAWKrz7X3m9h3yu/L3B0xZS724IlvNysj46xtPyWnUO++nfd84fTD0DznmtT0koP9PCMfeqBfgrSF/SU/DCKO2qT+wSfGp+b044turwjamKexseB4DonldT0jYg+zQpDtzt+4Ss/pDxhB5tH8D/N5P4/pGLft6xhq7qqAHTKvR9nX5cOMmTGNxAnkqcv8Why2pOt7LmQ3AvoLqwB0l3Dekk3+swo7Uf8Aay6eMiIrjtM+Wenqa4wcV849cUnX4Tz7D+kTCt7dOqnWVRl/K1/KamE5ZYB/+YUe+rpbvZbeceNTytDsUrqf6h8JLec/hNoUa3+lVR/cdW+BlskgGxtp2SPij6k+WfuGoYoMyKe072BFzb5Df3mSHFseNuyV+O2VvlrhaxI1kEajk7zeOM43r42w7UnyrkQhCVXOhFhCCQiwgE8K5eY1q2MrFiDkcottwVDYDt3k9ZM90LW16NfCeO8peSDs7VMOcwYlijHnAk3OVuI6jr1mTW1az2TWbR04a0cHK85SVYcQSD12I3SWrQemxV1II3hgVI7pBiN3RNLiSvtOrWyrVqFwt8t7aE2BNwLncN8VHlGkdZavIiTC4jSQGU6VTWT55KEsQxoMUmA5mjYNEEB14XjYGA+bGy+U+Kwx+rruV+w5Loeqzar/AGkTFBjMS+VSej+ZJMZd1gPSFTvmqUqmY2BCBCoyi2hZgSL3PfJcT6R33UcOB1uxb8q2+M84wy6S0seUyr4Vh696P9u1sacQa7A5fVZFVQqrm9ZmtxN8q7yd07Izzr0S/wDM6afU6/8A6af50T0WZr+zvTqohCEqufCJCEFhEiwIsWbI5+63wnNpOhx7Wpv7pHjp85zdMazjybd+HUkxOzKVfSrTVx94XI7DvE4vldyToUqbPRDq3BA2ZWJ3DnAnf1z0KmN0zsbTFSvQQ63rI1vcPrD+mKWtE9StetZiZmHiu2dltg8RVw7m5R8t+kEBlPepBlcTq/SrQCbScj+unSc9uTJ8EE5dBN1e4YZ2ci2kl4xY9BrLKpRFvCAgK0RYtoAQGkx5jDHrARRcSttBrKAN5Nvn8paXSMxuFLJ6zgjop7XDlfKm0idJhJsfY+Irj6ui79dsq/iNh5zqsDyBxT2zhEHHM+Zh3KCPObXIB/qlndK2kzW5rR1DVXhruWRyP5Prgc4FQuzhcxtlXmlty6/a4mdNKOCPPPun4iXpWtptGZRasVnECEISyp8IkIQWEIQKO12tSbrK/G/ymDQmvtyrzVQbybnsGg/zqmWqWF5wv7NPFH4rSNINlpnxQPBEdv7mso8i0rPiAJf5Krm9bU6XVB2ILnzfyk07k5OqvMvS6P8A5Af9PT/XUnHCdn6Wl/48f9PT/XUnGrN1dMNtnSRBIwJIssqcW1jhGGKsCS8bAGEAMURIQJFnSrggdj13tzjikN+pFAH638ZzKTvcHQzbCxHU7OP7Xp3+BlLz0vXZeQB5gneoZ5xyFr2W156Dh6l5ivturqFnADnt1AeZ/wC0vmU8DvfsX90uS9fVx5PYQiQl1DosbFkBYRISRh7TN6x6go8r/OSerBWVsU/1z9stUjpM87lqr6wxcfg7Ate1pt8k6eXCoftF2Pe7W8gJj7QxaOjKrC9tOF79F50mx6eShSXopp45RfznSkYcuW2Yh4x6TcQKm0aoH9CUk78uc/r8pyqzR5SYn12NxT9NeoB7qsVX8qiZ4E21jpknZ0kEYI6SqI5YyOWA4GLEgICwvEEDAkp756XhR6vYDlv6kqH8dcqvxE8zpz07aKX2AuXglInurpm87znyadKbcpyTq5Rc7hPQdnVr5esX8ZxuzsMhw/M3OAR1A/5addss3Nxu0A6rC0yW23V038O1nH3gR8/l5y+Zmq2qn7w+M0pNJ6ceSOyQiwnRzF4XiQkBbwvCEDmMUfrX99vjLeGfSU9oC1V+2/jr85ZwrTPO2uvqyNrYdXDgAAkG1tNdOHE2nWYGrkwyO39NFGPcgJ+E5XG17BwFuQx142GoM39vt6jA1z9jDVB+GmQJoqy3fO1Jy12Y3LEsT0ltSfEyVRI6S2ElE1s5yxYAQhAjgY2LAdARojhAUQMBEgSU56fyef6TsarT3mmtVPw/Wr5MPCeX3sJ6B6MKpdMXh7+0isvaVdG+KSl46XrPblNlbVcU1ppbRiBpcm5vYa9c9B5PGt/uKtjutvHbwnl+yVO4Dc1idxBtvE9U5N1GZBn1I07euZuT/GrjzO3QE+z7y/ETVMxjqyD76/ETYlKfZy7gQiQnVyNjoy8deVDosZeLeSOd20tqt+kKfK3yj8MNAZJt9OcjdII8Df8AdG4WcbR21Un8YZ2UnEhLe063902J8lM0+Xb5dn4o9NMr+Mhf3RcLQBxKvbchPf7P7pnelGqV2e4B9t6S/nViPBJ3puGa+e8vEU3SQCRiSiamYohCJAI6JCAohFEDASOURLRwgBnZejGrkxwH26Lp4FH/AGTjRNrkni/U4zDv/wDYqHsqXpnyeRaMxKY2g2qn0fGV6eq2rva2vNzHL5ET0fkwwZSRwC+Jvecr6Rtn5MfnA0qIjj3lGRh+QHvnT8kblD/l7WF/KZL6bOJ0NIXqJ238ATNiZeFF6o6gT5W+c1JWmjl2IRITo5I7xbxkWVD7xRGCKIGft5Lop6G+IP8AAlLAtpNLay3pN/afzCZOANpS22ji9WngR9aT0IfAlf4nLel57YWkL764PhTf+Z1eBFnPu/Oee+mbF87C0Qdy1HYdpRU/S868W4cObcvN0MlkSCSCamY6ESLALRIpMSAqxY2OgEdGxQYDhLmzGtWpHoqUz4OspAy1gHC1EY7g6E9gYEwl6R6WcMMmHq21WoydzjMB+Q+Mtcl3UohXcVGnQeiWvSZSzYFz9ipTbxbJ++Z/I9b0Qem3kB/MxX028X26nADnsfu/Ej+JpShs8c5/7f3S9FNKcnsIQhLqILxYkWVCxY2LArbUBNJrdR7gReYuEBvbrnRVfZa+6x+ExcKkpZ34p6lo4U5WBPEWPy854v6R9ojEbQqZTdaYWiP7Ll/zs47p7MDbfPHPSJsT1GLz0xzawZ7dDg/WAdRLK3axnXhnvDnzV68nNpJBJaOy6rDSn4SyuxcRwoP4CamRShLrbMrDfTI7Y3/06rewS57V+ZgU7RRLL4CsvtUX/Df4SF6bKbFGBJG9Tx0gNgYdRB8DC46YBCAHQRC0BRJEEjEekkex8o630rZL1APbo0qlughqbnwsZT5FKfUC/A3PeBaWKFVamx1CH2qIoi3283qyPxA36gZc2VhPVIo+6Ae0TDf9NvC1tnj2+sj5y7KWzv6+0fCXZNdKX9pNhCEsqgEURBASgfARIskMxbWRvdPnpMjDk9M08erFGCi5te3TY3nO4TFc8A+EraXfijpbx+O9WyKf6rgdo1+F/Cct6Q3BTDkgZs727Mq5vPLOs2vg0ak1TJd0dCpJJtdkByi9hcFhu6ZyPL2mXo0WI9moV7nQn4oIp1aE8vdJx9M7Z1c2FvhwmvSxVVbnJmHVpu4TC2YhC6HuOom/QdQLlTfq4nqm55slrY9TpUpsL9I0Mr1cElTVND5SZsY9rmkzKO827JFR2rQYkA5GvqGFu7XdJQz1rNSOV90jx7ZsmXUZlI42tc/ITU2hTWouemVY8VvoR0TDWspfKuZN4KkaglSAOsX+EJR4emWckk8QB2Emx3TSooNbqCOwHt38IzDKtgbXueAmnh6CspuOn4QrKL/07DMLmihPuLIn2Fhj/sqOwsvwMtNhhplv4np1jkRRe6m97bz/ADCcqT8nMMd1Ngep3+ZlfF8kECl6dRwQpbKwDXsNwOlvOdBTcDdp/wCekxuMqM1NwN5RxfuMGS7L2XVwlT6I9YVEUiutlK2ZwUy2JOgyFu1zOqotwmFiGYYmnVI5tXDU26wyjXyZfGWxtJVqincXsCR1Hd42PhMF5zbt6fHH49NzAaZh138f/Esynhn54tuIPlrLktXTlyR+QhCElRXiiEJUOgIsJIVZxuL0qtbSxPk8ISlnbh20tp1W9Va+jIbjpsDMbl6g+iU9P91P0VIQlqe0L8vrLm9n+zNrAObHWEJteY1MIdDu48B0RuLwdOsPrKatv3gdcIQPM+UC/R6pFEsg6AzfMyvgcQzZizEnm695hCQn6bOAqHXXomyjkE68TCEmFZWlc238Wj3+QiwkoNzm2+XrcxvdMIQLmFctSwJY3P0QG56StLWW9q4GmvqqqrZ3qBWYE6gKdLXsNw3QhMFvaXqU9I/rQwx5yds1YQiulObYhCE6OT//2Q==",
+        "size":"L",
+        "for":"Men",
+        "price":850
+        
+    },
+    {
+        "id":4,
+        "brand":"Levis",
+        "name":"Clothes-4",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/81oz99FLt0L._UY879_.jpg",
+        "size":"M",
+        "for":"Men",
+        "price":900
+        
+    },
+    {
+        "id":5,
+        "brand":"UCB",
+        "name":"Clothes-5",
+        "image":"https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/13867084/2021/4/5/4b339929-d562-410c-b0fa-016657136d3a1617607507597-United-Colors-of-Benetton-Women-Tshirts-8721617607507204-1.jpg",
+        "size":"M",
+        "for":"Women",
+        "price":1000
+        
+    },
+    {
+        "id":6,
+        "brand":"Adidas",
+        "name":"Clothes-6",
+        "image":"https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/6689755/2018/7/25/3370d1e1-85eb-4699-b325-0ee844eb88411532509429855-Adidas-Originals-Men-Blue-Printed-OVERSIZED-T-shirt-82215325-1.jpg",
+        "size":"L",
+        "for":"Men",
+        "price":1300
+      
+    },
+    {
+        "id":7,
+        "brand":"Adidas",
+        "name":"Clothes-7",
+        "image":"https://rukminim1.flixcart.com/image/332/398/kkprmvk0/kids-t-shirt/f/d/f/14-15-years-11673448-adidas-original-imagyyft3fxezbde.jpeg?q=50",
+        "size":"S",
+        "for":"Kids",
+        "price":200
+        
+    },
+    {
+        "id":8,
+        "brand":"Levis",
+        "name":"Clothes-8",
+        "image":"https://sslimages.shoppersstop.com/sys-master/images/h3a/hce/14999827742750/205523390_BLACK.jpg_230Wx334H",
+        "size":"L",
+        "for":"Women",
+        "price":2300
+        
+    }
+
+]
