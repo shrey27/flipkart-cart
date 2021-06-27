@@ -1,6 +1,6 @@
 import '../App.css';
 import { useEffect, useState } from 'react';
-import Item from './Item';
+import SavedItem from './SavedItem';
 import {firestore} from './config.js';
 
 function SaveForLater() {
@@ -26,7 +26,7 @@ function SaveForLater() {
         <div>
             <div className="items">
             {
-                items.map((item) => ( <Item key={item.id} {...item}/>))
+                items.map((item) => ( <SavedItem key={item.id} {...item}/>))
             }
             </div>
         </div>

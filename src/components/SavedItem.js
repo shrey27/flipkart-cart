@@ -3,11 +3,8 @@ import '../App.css';
 import firebase from 'firebase';
 import {firestore} from './config.js';
 
-function Item(props) {
-  const [add,setAdd] = useState(false);
-  
+function SavedItem(props) {
   const itemUpdate = async() => {
-    setAdd(true);
     const obj = {
         "id":props.id,
         "brand":props.brand,
@@ -17,6 +14,10 @@ function Item(props) {
         "for":props.for,
         "price":props.price
     }
+    await firestore.collection('cartitems').doc('later').update(
+    {
+        items : firebase.firestore.FieldValue.arrayRemove(obj)
+    });
     var num = 0;
     await firestore.collection('cartitems').doc('cart').get().then((_doc) => {
       const data = _doc.data();
@@ -40,9 +41,9 @@ function Item(props) {
                 <p>{props.for}</p>
                 <p>{props.price}</p>
             </section>
-            <button className='item-button' onClick={itemUpdate}>{add ? 'Added' : 'Add To Cart'}</button>
+            <button className='item-button' onClick={itemUpdate}>Add To Cart</button>
     </div>
   );
 }
 
-export default Item;
+export default SavedItem;

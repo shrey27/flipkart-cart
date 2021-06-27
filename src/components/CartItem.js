@@ -5,7 +5,7 @@ import {firestore} from './config.js';
 
 function CartItem(props) {
   const [count,setCount] = useState(1);
-  const {setTotalPrice, totalPrice} = props;
+  const {setTotalPrice, totalPrice, remove, setRemove} = props;
   
   const removeItem = async() => {
     const obj = {
@@ -16,12 +16,14 @@ function CartItem(props) {
       "size":props.size,
       "for":props.for,
       "price":props.price
-  }
-  await firestore.collection('cartitems').doc('cart').update(
-    {
-        items : firebase.firestore.FieldValue.arrayRemove(obj)
-    }
-);
+      }
+    await firestore.collection('cartitems').doc('cart').update(
+      {
+          items : firebase.firestore.FieldValue.arrayRemove(obj),
+          total:  (totalPrice - obj.price*count)
+      });
+    setRemove(!remove);
+    setTotalPrice(totalPrice - obj.price*count);
   }
 
   const itemUpdate = async() => {
