@@ -1,4 +1,5 @@
 import '../App.css';
+import { Link } from 'react-router-dom'
 
 function Navbar() {
   return (
@@ -9,13 +10,8 @@ function Navbar() {
       </a>
      {/* <input type='text' placeholder='search' length='20px'/> */}
       <div className='navbar-end'>
-          {/* <button>Save for Later</button> */}
-          <a href="/saveforlater">
-            <span className='icons-name'> Save for later</span>
-          </a>
-          <a href="/cart">
-            <span className='icons-name'> Cart</span>
-          </a>
+          <Link to='/saveforlater'> Save for later</Link>
+          <Link to='/cart'> Cart</Link>
       </div>
     </div>
   );
